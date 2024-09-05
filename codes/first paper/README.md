@@ -19,7 +19,7 @@ The model implemented in this section uses a diffusion process to systematically
     * Reverse Process:
         * The model learns to reverse the diffusion, progressively denoising the data to regenerate samples from the original distribution.
 * Loss Function:
-    * he training loss consists of a KL divergence-based objective, ensuring that the reverse diffusion process reconstructs the data distribution as accurately as possible.
+    * The training loss consists of a KL divergence-based objective, ensuring that the reverse diffusion process reconstructs the data distribution as accurately as possible.
 
 # Training
 
