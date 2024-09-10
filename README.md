@@ -35,3 +35,6 @@ URL: https://towardsdatascience.com/diffusion-model-from-scratch-in-pytorch-ddpm
 1. The Annotated Diffusion Model<br>
 URL: https://huggingface.co/blog/annotated-diffusion
 
+2. The Illustrated Stable Diffusion<br>
+URL: https://jalammar.github.io/illustrated-stable-diffusion/
+
