@@ -32,5 +32,6 @@ URL: https://www.udemy.com/course/diffusion-models/
 URL: https://towardsdatascience.com/diffusion-model-from-scratch-in-pytorch-ddpm-9d9760528946
 
 ## Additional Resources
-
+1. The Annotated Diffusion Model<br>
+URL: https://huggingface.co/blog/annotated-diffusion
 
