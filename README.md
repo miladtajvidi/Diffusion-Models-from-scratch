@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./diffusion.png" alt="Description of image" width="300">
+</p>
+
 # Diffusion-Models-from-scratch
 
 ## What Are Diffusion Models?
